@@ -1,0 +1,5 @@
+266B - Queue at the School
+
+In this you should realize the given process. You should t times swap elements i and i + 1 if on the place i was a girl and on the place i + 1 was a boy.错了！ You should not push some girl to the left multiple times at once. The solution can be written using O(N·T) time.
+
+In this you should realize the given process. You should t times swap elements i and i + 1 if on the place i was a boy and on the place i + 1 was a girl.错了！ You should not push some girl to the left multiple times at once. The solution can be written using O(N·T) time.

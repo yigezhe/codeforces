@@ -1,0 +1,17 @@
+想法一
+找到最大值，找到最小值
+并且统计有多少个最大值，有多少个最小值，
+最大个数和最小个数相乘就是最多的排列！
+
+遇到的问题是，max和min相等时的处理办法！
+1 1
+max min 1
+min max 1
+一种可能！
+1 1 1
+max max min 2
+max min min 2
+1 1 1 1
+max max max min 3
+max max min min 4
+max min min min 3

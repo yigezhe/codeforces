@@ -1,0 +1,7 @@
+Choose the 3 and 1 as much as possible.
+And let 2 combine with themselves.
+If there are more 1s and 2s, let two 1s combine with 2,
+and every four 1s take same taxi.
+最后不足四个的，也凑成一个出租车！
+
+我完全实践了这个想法，这个想法对一些细节没有进行处理！

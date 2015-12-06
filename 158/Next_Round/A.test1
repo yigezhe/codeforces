@@ -1,8 +1,0 @@
-Test: #1, time: 30 ms., memory: 0 KB, exit code: 2, checker exit code: 0, verdict: RUNTIME_ERROR
-Input
-8 5
-10 9 8 7 7 7 5 5
-Output
-6
-Checker Log
- 

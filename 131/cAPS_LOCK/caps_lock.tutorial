@@ -1,0 +1,11 @@
+Just do what the statement asks you to. Check if all letters are uppercase, except for the first one, that you don't need to check. If so, change the case of the entire string. If not, do nothing. Please notice that an one-letter string must have its case changed.
+
+It can be easly done in O(n), where n is the lenght of the string.
+艰难地实现了，教程中的想法！
+
+either it only contains uppercase letters;这说明单个大写字母也要被改变！
+A a
+从一开始就按了大写键
+a A
+单个小写为什么要变为大写，题目中的说明不够！
+这道题不严谨！

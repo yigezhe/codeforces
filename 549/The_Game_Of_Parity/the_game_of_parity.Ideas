@@ -1,0 +1,18 @@
+n个城市，两个人来回烧，最后剩下k个！
+daenerys保留偶数！烧奇数！
+stannis保留奇数！烧偶数！
+
+daenerys先，5,7   12 14 101,奇数stannis胜利！
+stannis后,20
+
+stannis先,20,12
+如果只有奇数个奇数，那么stannis很难赢，因为daenerys可以先烧掉
+如果只有偶数个奇数，那么stannis一定赢，
+之后daenerys烧奇数，stannis也烧奇数
+问题越思考越乱了！
+daenerys后，5   7 14 101,偶数daenerys胜利！
+stannis必须先烧与daenerys相同个数的奇数，
+再去烧偶数，才可以保证，最后有奇数留下来！
+
+看来stannis先！
+有思路了，先分别统计偶数与奇数的个数！
